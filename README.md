@@ -2,7 +2,7 @@
 HorizonDroid
 ===========
 
-![HorizonBanner](../horizon.svg)
+![HorizonBanner](https://github.com/HorizonDroidLabs/horizon/blob/main/horizon.svg)
 
 Welcome to HorizonDroid!
 
@@ -39,7 +39,7 @@ mka horizon
 - [Telegram group](https://t.me/HorizonDroidChat)
 
 -----------------------------------------------------------------------------
-![CreditsImg](../credit.svg)
+![CreditsImg](https://github.com/HorizonDroidLabs/horizon/blob/main/credit.svg)
  Special thanks to All ROM Developers in this community
  * [**AOSP**](https://android.googlesource.com)
  * [**LineageOS**](https://github.com/LineageOS)
