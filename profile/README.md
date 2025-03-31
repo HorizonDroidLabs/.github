@@ -24,11 +24,23 @@ repo sync -c --force-sync --optimized-fetch --no-tags --no-clone-bundle --prune 
 ```
 
 ```bash
-lunch lineage_devicecodename-bp1a-buildtype
+lunch horizon_devicecodename-bp1a-buildtype
 ```
 
 ```bash
 mka horizon
+```
+
+### Quick Source Initialization ###
+
+```bash
+flag name maintainer
+HORIZON_MAINTAINER := name
+```
+```bash
+flag Gapps
+WITH_GMS := false
+WITH_GMS := true
 ```
 
 [More build information](https://github.com/HorizonDroidLab/manifest)
