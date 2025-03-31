@@ -43,5 +43,8 @@ mka horizon
  Special thanks to All ROM Developers in this community
  * [**AOSP**](https://android.googlesource.com)
  * [**LineageOS**](https://github.com/LineageOS)
+ * [**AxionAOSP**](https://github.com/AxionAOSP)
+ * [**CrDroid**](https://github.com/crdroidandroid)
+ * [**EvolutionX**](https://github.com/evolution-x)
 
 -----------------------------------------------------------------------------
