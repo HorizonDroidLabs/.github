@@ -31,7 +31,7 @@ lunch horizon_devicecodename-bp1a-buildtype
 mka horizon
 ```
 
-### Quick Source Initialization ###
+### Flag Sector ###
 
 ```bash
 flag name maintainer
