@@ -24,7 +24,7 @@ repo sync -c --force-sync --optimized-fetch --no-tags --no-clone-bundle --prune 
 ```
 
 ```bash
-lunch horizon_devicecodename-bp1a-buildtype
+lunch lineage_devicecodename-bp1a-buildtype
 ```
 
 ```bash
